@@ -1,6 +1,6 @@
 # My study projects
 
-This repository contains a collection of learning projects completed as part of various Data Science courses. Each project represents a practical task aimed at developing key skills in data analysis, machine learning, and working with large datasets.
+This repository contains a collection of learning projects completed as part of Data Science course. I completed the Yandex Practicum Data Science course (certificate attached) where I developed these projects as part of my learning journey. Each project represents a practical task aimed at developing key skills in data analysis, machine learning, and working with large datasets.
 
 | Name | Description | Tools |
 | :--------: | :-------: | :-------: |
